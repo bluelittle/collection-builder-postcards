@@ -12,12 +12,13 @@ permalink: /about.html
 
 ## About the Collection
 
-This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This demo site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
 - a folder of JPEG images or PDF documents
 
-The base site features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+This demonstration site features objects from Digital Grinnell's Historic Iowa Postcard's Collection [Digital Grinnell Postcard Collections](https://digital.grinnell.edu/islandora/object/grinnell:postcards). 
+
 
 ## About the About Page
 
